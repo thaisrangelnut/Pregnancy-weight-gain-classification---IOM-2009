@@ -2,13 +2,11 @@
 
 Codes to classify pregnancy weight gain according to gestational age using the US Institute of Medicine (IOM) 2009 guidelines
 
-In this repository, you'll find three files: 
+In this repository, you'll find two files: 
 
 **1.** Codes in R to classify pregnancy weight gain according to gestational age using the US IOM 2009 guidelines: These codes were created because most people use the IOM 2009 ranges (Table below) without accounting for gestational age in which the weight gain (or the last weight measurement) was obtained. Even if the measurement was obtained at delivery, it is important to account for gestational age, especially among preterm infants.
 
-**2.** Codes in R to generate graphs of weight gain according to gestational age, as displayed in chapter 8 of the IOM 2009 book ()
-
-**3.** Table in excel with the values of weight per week considering the rates proposed by the IOM and final ranges at 40 weeks.
+**2.** Table in excel with the values of weight per week considering the rates proposed by the IOM and final ranges at 40 weeks.
 
 **Please note that all these analyses should be done by pre-pregnancy body mass index (BMI) category.** 
 
